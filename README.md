@@ -13,3 +13,7 @@
 ## MEDIA QUERIES FOR SMALL TABLETS AND MOBILE PHONE
 
 ![image](readme_images/3.png)
+
+## THEME CHANGE
+
+![image](readme_images/4.gif)
